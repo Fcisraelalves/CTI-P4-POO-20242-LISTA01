@@ -1,71 +1,32 @@
-## Olá! Sou Hosana Soares🌠
-Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Nesse GitHub há exercícios e desenvolvimento de programas envolvendo linguagens de programação. 
-
--------
-## 🌟 Preferências:
-
-- 📚 Livros
-- 🎨 Arte
-- 🎶 Música
-- 🎭 Teatro
-
--------
-## 🌎 Linguagens: <br>
-
-<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40" alt="CSS Icon">
-
- --------
-## 📃 Interesses: <br>
-
-➮ 💫 Programação <br>
-➮ 💫 Eletrônica <br>
-➮ 💫 Desenvolvimento Web <br>
-
---------
-
-## 🧪 Projeto de Programação Orientada a Objetos:
-- ⚙️ POO: [Exericícios POO](https://github.com/hosanasoaress/CTI-P4-POO-20242-LISTA01)
-
----------
-
-## 📞 Contatos:
-- 📩 Email: hosana.clara@aluno.ifce.edu.br
-- 📱 Instagram: [@hosanaasoaress](https://www.instagram.com/hosanaasoaress/)
 
 
-<hr>
+# 🪐 Resolução da Lista 01 de atividades 
 
- ## 🚀 Levantamentos:
- 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanasoaress&layout=compact&theme=cobalt" alt="Linguagens mais usadas"/></td>
-    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=hosanasoaress&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=hosanasoaress&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hosanasoaress&theme=cobalt" alt="Contribuições recentes"/></td>
-  </tr>
-</table>
+## ✨ Apresentação:
+O detertminado repositório inclui a resolução da lista 01 de atividades, do capítulo 3 da apostila, proposta na disciplina de Programação Orientada a Objetos, ensinada pelo professor Roger Moura Sarmento, do IFCE campus Maranguape. Este repositório oferece soluções para uma variedade de desafios de programação em Java, com foco nos princípios essenciais de design de algoritmos e estruturas de dados, sendo realizados para o aprimoramento de habilidades de codificação e raciocínio lógico, destacando o uso de estruturas sequenciais para executar tarefas de forma eficiente.
 
-<br>
+## 🛸 Objetivo:
+As atividades trabalhadas durante a disciplina, foram realizadas com o intuito de melhor aprendizagem e execução da teoria aplicada em sala de aula. Além das soluções em Java, o repositório também explora conceitos introdutórios de algoritmos, apresentados na apostila da disciplina, abordando tópicos como declaração de variáveis, atribuição de valores e operações de entrada e saída, sendo conceitos fundamentais para a criação de programas robustos e para entender como diferentes linguagens de programação tratam a construção de algoritmos, tanto simples quanto complexos.
+
+---
+## 📌 Dados:
+**Disciplina:** Programação Orientada a Objetos
+
+**Professor:** Roger Moura Sarmento
+
+**Intituição:** Ifce campus Maranguape
+
+---
+
+## 🌌​ Integrantes da Equipe:
+- [🔮 Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
+- [🔮 Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
+- [🔮 Sally Gosson Viana Colombo](https://github.com/sallygosson)
+- [🔮 Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
 
 
+---
 
-<div> 
-
-<a href = "mailto:hosana.clara@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-</div>
-
-<hr>
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosanasoaress/hosanasoaress/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosanasoaress/hosanasoaress/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hosanasoaress/hosanasoaress/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<hr>
+## 🖥️​ Linguagem Utilizada:
+- ☕ Java
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon">
